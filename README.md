@@ -4,5 +4,5 @@
 
 ***
 ## 구현한 기능
-*Counting numbers(increase, decrease)
-*reset numbers
+* Counting numbers(increase, decrease)
+* reset numbers
