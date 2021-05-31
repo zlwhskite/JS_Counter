@@ -3,5 +3,6 @@
 [👉Click](https://zlwhskite.github.io/JS_Counter/)
 
 ***
-Counting numbers(increase, decrease)
-reset numbers
+## 구현한 기능
+*Counting numbers(increase, decrease)
+*reset numbers
